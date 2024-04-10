@@ -1,7 +1,7 @@
-# latest versions as of 2023-06-27
-pandas==2.0.2
-streamlit==1.24.0
-torch==2.0.1
-torchvision==0.15.2
-pillow==9.5.0
+# latest versions as of 2023-04-10
+pandas==2.2.1
+streamlit==1.33.0
+torch==2.2.2
+torchvision==0.17.2
+pillow==10.3.0
 wget==3.2
